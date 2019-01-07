@@ -7,6 +7,11 @@ int main(void)
     printf("LIU\n");
     printf("pinyan is so bon\n");
     printf("yumin is so disturbing\n");
+<<<<<<< HEAD
+    //develope 2
+=======
+    //develope 1
+>>>>>>> pinyan`sDevel
     int i,j;
     int WID=900,HEI=900;
     srand(time(NULL));
