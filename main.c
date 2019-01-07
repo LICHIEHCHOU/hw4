@@ -6,6 +6,7 @@ int main(void)
     printf("LIU\n");
     printf("pinyan is so bon\n");
     printf("yumin is so disturbing\n");
+    //develope 1
     int i,j;
     int WID=900,HEI=900;
     srand(time(NULL));
