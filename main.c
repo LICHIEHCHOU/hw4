@@ -3,9 +3,8 @@
 
 int main(void)
 {
+    printf("Hi,pinyan and wangcorn\n");
     printf("LIU\n");
-
-
     printf("pinyan is so bon\n");
     printf("yumin is so disturbing\n");
     int i,j;
