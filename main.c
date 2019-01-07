@@ -4,6 +4,7 @@
 int main(void)
 {
 
+    printf("yumin play here at 2019/1/7\n");
     int i,j;
     int WID=900,HEI=900;
     srand(time(NULL));
