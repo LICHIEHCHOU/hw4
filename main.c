@@ -3,13 +3,9 @@
 
 int main(void)
 {
-<<<<<<< HEAD
     printf("LIU\n");
     printf("pinyan is so bon\n");
-=======
-
-    printf("yumin play here at 2019/1/7\n");
->>>>>>> master
+    printf("yumin is so disturbing\n");
     int i,j;
     int WID=900,HEI=900;
     srand(time(NULL));
