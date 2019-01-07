@@ -3,6 +3,8 @@
 
 int main(void)
 {
+
+    printf("yumin play here at 2019/1/7\n");
     printf("LIU\n");
     printf("pinyan is so bon\n");
     int i,j;
