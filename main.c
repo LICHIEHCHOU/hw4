@@ -4,6 +4,7 @@
 int main(void)
 {
     printf("LIU\n");
+    printf("pinyan is so bon\n");
     int i,j;
     int WID=900,HEI=900;
     srand(time(NULL));
