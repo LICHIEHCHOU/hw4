@@ -1,0 +1,2 @@
+void randnum();
+void display();
